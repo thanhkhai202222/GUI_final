@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+streamlit_option_menu
+time
+tensorflow
+PIL
