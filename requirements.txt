@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-streamlit-option-menu
+streamlit_option_menu
 time
 tensorflow
 PIL
