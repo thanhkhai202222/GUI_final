@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-streamlit_option_menu
+streamlit_option_menu==0.3.2
 time
 tensorflow
 PIL
